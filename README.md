@@ -39,10 +39,8 @@ Projekt wykorzystuje następującą strukturę katalogów:
 - Kompilator: GCC.
 
 ### Instrukcje dla użytkownika
-1. **Logowanie**: Zaloguj się na serwer `stud.iem.pw.edu.pl` za pomocą SSH.
-2. **Pobranie szkieletu projektu**: Skorzystaj z komendy `svn checkout` w celu pobrania kodu źródłowego.
-3. **Kompilacja**: W katalogu głównym projektu uruchom `make` w celu zbudowania aplikacji.
-4. **Uruchamianie programu**: Wykorzystaj przygotowane pliki testowe lub własne dane w formacie zgodnym z opisem w plikach nagłówkowych projektu.
+1. **Kompilacja**: W katalogu głównym projektu uruchom `make` w celu zbudowania aplikacji.
+2. **Uruchamianie programu**: Wykorzystaj przygotowane pliki testowe lub własne dane w formacie zgodnym z opisem w plikach nagłówkowych projektu.
 
 ### Dokumentacja
 
@@ -58,7 +56,3 @@ Dodatkowe szczegóły dotyczące implementacji poszczególnych modułów oraz pr
 
 - [Dokumentacja SVN](http://svnbook.red-bean.com/en/1.5/svn.branchmerge.html)
 - [Opis metody Gaussa](http://edu.i-lo.tarnow.pl/inf/alg/005_root/0006.php)
-
----
-
-Projekt zrealizowany w ramach Programu Rozwojowego Politechniki Warszawskiej, współfinansowanego przez Unię Europejską w ramach Europejskiego Funduszu Społecznego.
