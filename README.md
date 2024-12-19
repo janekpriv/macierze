@@ -43,7 +43,7 @@ Projekt korzysta z następujących plików źródłowych:
 - `backsubst.c`, `backsubst.h`: Implementacja wstecznego podstawienia.
 - `mat_io.c`, `mat_io.h`: Obsługa wejścia/wyjścia dla macierzy oraz zarządzanie pamięcią.
 
-Dodatkowe szczegóły dotyczące implementacji poszczególnych modułów oraz przygotowania testów znajdują się w plikach projektu.
+Dodatkowe szczegóły dotyczące implementacji poszczególnych modułów znajdują się w plikach projektu.
 
 ### Źródła
 - Materiały do laboratorium + ISOD
