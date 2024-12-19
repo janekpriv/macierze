@@ -1,2 +1,0 @@
-Folder dane zawiera problematyczny input, który
-nie nadaje się do analizy metody eliminacji Gaussa
