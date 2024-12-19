@@ -33,7 +33,7 @@ Projekt wykorzystuje następującą strukturę katalogów:
 
 ### Instrukcje dla użytkownika
 1. **Kompilacja**: W katalogu głównym projektu uruchom `make` w celu zbudowania aplikacji.
-2. **Uruchamianie programu**: Wykorzystaj przygotowane pliki testowe lub własne dane.
+2. **Uruchamianie**: Wykorzystaj przygotowane pliki testowe lub własne dane w formacie zgodnym z opisem w plikach nagłówkowych projektu.
 
 ### Dokumentacja
 
@@ -46,7 +46,6 @@ Projekt korzysta z następujących plików źródłowych:
 Dodatkowe szczegóły dotyczące implementacji poszczególnych modułów znajdują się w plikach projektu.
 
 ### Źródła
-
 - Materiały do laboratorium + ISOD
 - [Dokumentacja SVN](http://svnbook.red-bean.com/en/1.5/svn.branchmerge.html)
 - [Opis metody Gaussa](http://edu.i-lo.tarnow.pl/inf/alg/005_root/0006.php)
