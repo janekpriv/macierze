@@ -29,18 +29,11 @@ Projekt wykorzystuje następującą strukturę katalogów:
    - Zarządzanie wersjami przy użyciu SVN.
    - Rozwiązywanie konfliktów i scalanie zmian.
 3. **Testowanie**
-   - Przygotowanie automatycznych testów funkcjonalnych.
    - Walidacja poprawności działania algorytmu dla różnych przypadków testowych.
-
-### Wykorzystywane technologie
-- System kontroli wersji: Subversion (SVN).
-- Środowisko pracy: `stud.iem.pw.edu.pl` z dostępem przez SSH.
-- Język programowania: C.
-- Kompilator: GCC.
 
 ### Instrukcje dla użytkownika
 1. **Kompilacja**: W katalogu głównym projektu uruchom `make` w celu zbudowania aplikacji.
-2. **Uruchamianie programu**: Wykorzystaj przygotowane pliki testowe lub własne dane w formacie zgodnym z opisem w plikach nagłówkowych projektu.
+2. **Uruchamianie programu**: Wykorzystaj przygotowane pliki testowe lub własne dane.
 
 ### Dokumentacja
 
@@ -50,9 +43,10 @@ Projekt korzysta z następujących plików źródłowych:
 - `backsubst.c`, `backsubst.h`: Implementacja wstecznego podstawienia.
 - `mat_io.c`, `mat_io.h`: Obsługa wejścia/wyjścia dla macierzy oraz zarządzanie pamięcią.
 
-Dodatkowe szczegóły dotyczące implementacji poszczególnych modułów oraz przygotowania testów znajdują się w plikach projektu.
+Dodatkowe szczegóły dotyczące implementacji poszczególnych modułów znajdują się w plikach projektu.
 
 ### Źródła
 
+- Materiały do laboratorium + ISOD
 - [Dokumentacja SVN](http://svnbook.red-bean.com/en/1.5/svn.branchmerge.html)
 - [Opis metody Gaussa](http://edu.i-lo.tarnow.pl/inf/alg/005_root/0006.php)
